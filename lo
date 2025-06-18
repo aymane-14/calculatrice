@@ -1,0 +1,29 @@
+[33mcommit 7674148466ef6d862d006e11b0792535c1cc5f82[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mcalcu[m[33m)[m
+Author: aymane <ouldhdamn@gmail.com>
+Date:   Sun Jun 15 02:56:03 2025 +0200
+
+    ajoutr une technique sur sur focntion executer calculatrice pour donner dexu options calcul normal ou bien donner une expression à la calculer
+
+[33mcommit 4b7e5a4097a6db5e4edc0271b6250b5e845d3ffe[m
+Author: aymane <ouldhdamn@gmail.com>
+Date:   Sun Jun 15 01:59:32 2025 +0200
+
+    ajouter la methode de calculer racinen-ème sur focntion calculatricescientifique
+
+[33mcommit beffaeea56e1331e8ac3f11b50ee0aa130ab590a[m
+Author: aymane <ouldhdamn@gmail.com>
+Date:   Sun Jun 15 01:38:02 2025 +0200
+
+    ajouter une autre fonction calculatrice scientifique et changer partie du opérateur de la focntion executercalculatrice
+
+[33mcommit 31b16078aa2e6ce3596b23777ccf4cf46ba2a359[m
+Author: aymane <ouldhdamn@gmail.com>
+Date:   Sat Jun 14 14:52:36 2025 +0200
+
+    add echap calculatrice
+
+[33mcommit 79e1a118f5f1799f1c5aa2f62b15851d7fcc033a[m
+Author: aymane <ouldhdamn@gmail.com>
+Date:   Sat Jun 14 13:52:02 2025 +0200
+
+    creat calculatrice.java
